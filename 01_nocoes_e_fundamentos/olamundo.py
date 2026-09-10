@@ -1,2 +1,11 @@
 print("Bianca de Paula")
 print("olamundo")
+
+nome = input("digite seu nome")
+data = input("digite data de nascimento")
+mes = input("digite mes de nascimento")
+ano = input("digite ano de nascimento") 
+print("meu nome e", nome)
+print("nasci na data", data)
+print("no mes", mes)
+print("no ano de", ano)
